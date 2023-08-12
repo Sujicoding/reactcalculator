@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sujicoding/reactcalculator.git/static/css/main.97902688.css",
+    "main.js": "/Sujicoding/reactcalculator.git/static/js/main.5cbee9f5.js",
+    "index.html": "/Sujicoding/reactcalculator.git/index.html",
+    "main.97902688.css.map": "/Sujicoding/reactcalculator.git/static/css/main.97902688.css.map",
+    "main.5cbee9f5.js.map": "/Sujicoding/reactcalculator.git/static/js/main.5cbee9f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97902688.css",
+    "static/js/main.5cbee9f5.js"
+  ]
+}
